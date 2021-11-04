@@ -1,0 +1,17 @@
+{
+    "name": "Examples",
+    "rootNamespace": "Examples",
+    "references": [
+        "Examples.Common",
+        "Examples.Common.Unions"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

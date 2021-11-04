@@ -1,0 +1,19 @@
+{
+    "name": "Examples.CodeGen.Genesis.Common",
+    "rootNamespace": "Examples.CodeGen.Genesis.Common",
+    "references": [
+        "Examples.CodeGen.Genesis.Configurations",
+        "Genesis.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

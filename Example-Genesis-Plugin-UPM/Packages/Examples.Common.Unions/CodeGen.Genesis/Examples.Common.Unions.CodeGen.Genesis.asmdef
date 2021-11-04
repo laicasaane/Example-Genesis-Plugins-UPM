@@ -1,0 +1,20 @@
+{
+    "name": "Examples.Common.Unions.CodeGen.Genesis",
+    "rootNamespace": "Examples.Common.Unions.CodeGen.Genesis",
+    "references": [
+        "Examples.Common",
+        "Examples.Common.Unions",
+        "Examples.CodeGen.Genesis.Common"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

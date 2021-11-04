@@ -1,0 +1,8 @@
+{
+  "name": "examples.common.unions",
+  "displayName": "Examples.Common.Unions",
+  "version": "0.0.1",
+  "dependencies": {
+    "org.nuget.microsoft.bcl.hashcode": "1.1.1"
+  }
+}
