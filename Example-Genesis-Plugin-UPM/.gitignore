@@ -64,3 +64,6 @@ crashlytics-build.properties
 [Aa]ssets/AddressableAssetsData/Windows.meta
 [Aa]ssets/AddressableAssetsData/Android.meta
 [Aa]ssets/AddressableAssetsData/iOS.meta
+
+Genesis.CLI/.log
+Genesis.CLI/.temp
