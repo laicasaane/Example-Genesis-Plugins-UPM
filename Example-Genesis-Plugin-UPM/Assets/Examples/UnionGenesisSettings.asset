@@ -48,4 +48,4 @@ MonoBehaviour:
       value: Unix
     - key: Genesis.TargetDirectory
       value: Assets/Examples/Generated
-    name: DefaultGenesisConfig
+    name: UnionGenesisSettings
