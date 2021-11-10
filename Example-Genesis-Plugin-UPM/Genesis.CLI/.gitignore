@@ -1,0 +1,4 @@
+﻿.temp
+.log
+*.pdb
+**/*.pdb
